@@ -1,0 +1,85 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: sans-serif;
+}
+input,label{
+   margin-bottom: 10px;
+   height: 20px;
+   margin-top: 10px;
+}
+
+body{
+   background-image: url(imgesToShop/w1.jpeg);
+   border: 5px solid #D36B00;
+   margin: 90px 400px;
+   border-radius: 10px;
+
+  
+}
+.form{
+   background: #d9cfbf;
+   padding-left: 20px;
+   color:#D36B00;
+   font-size: 13px;
+   
+}
+
+h1{
+   text-align: center;
+   color: #fff;
+   margin: 20px ;
+}
+
+.submit{
+   background-color: #D36B00;
+   color: white;
+   border: 0;
+   width: 90px;
+   height: 30px;
+   border-radius: 4px;
+   margin-left: 5%;
+}
+.submit:hover{
+   background-color: #FEC260;
+   border-radius: 6px;
+   
+}
+.reset{
+   background-color: #D36B00;
+   color: white;
+   border: 0;
+   width: 90px;
+   height: 30px;
+   border-radius: 4px;
+   margin-left: 25%;
+}
+.reset:hover{
+   background-color: #FEC260;
+   border-radius: 6px;
+   
+}
+
+
+
+button{
+   background-color:  #D36B00;
+   color: white;
+   border: 0;
+   width: 90px;
+   height: 30px;
+   border-radius: 4px;
+   margin-left: 5%;
+}
+button a{
+   text-decoration: none;
+   color: white;
+}
+
+
+button:hover{
+   background-color: #FEC260;
+   border-radius: 6px;
+   
+}
